@@ -10,8 +10,8 @@ I'm a Software Engineer / DeveOps Engineer, Who is passionate about Open Source,
 - 👯  I’m looking to collaborate on Python, Java, Javascript, AWS
 - 🤔  I’m open to New Career Opportunities
 - 💬  Ask me about Tech, Soccer, Hiking, AWS, Linux :heart:
-- ⚡  **Languages: Python, Java, Javascript, SQL 
-- 🖥️   **Organization : damovisa-demo
+- ⚡  **Languages:** Python, Java, Javascript, SQL 
+- 🖥️   **Organization:** damovisa-demo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫  How to reach me
 
