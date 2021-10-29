@@ -4,12 +4,11 @@ I'm Akinwale, I'm a Software Engineer / DeveOps Engineer 👨‍💻 who is pass
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-- 🔭 I’m currently working on AWS, Docker, Ansible
+- 🔭 I’m currently working on AWS, Docker, Ansible, REACT.
 - 🌱 I’m currently learning Javascript, Java
 - 👯 I’m looking to collaborate on Python, Java, Javascript, AWS
 - 🤔 I’m open to New Career Opportunities
-- 💬 Ask me about Tech, Python, Soccer, Hiking, AWS. Linux
-- 😄 Pronouns: He/Him
+- 💬 Ask me about Tech, Soccer, Hiking, AWS, Linux
 - ⚡ Languages: Python, Java, Javascript, SQL
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
