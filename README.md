@@ -1,5 +1,5 @@
-### Hi 👋
-I'm Akinwale, I'm a Software Engineer / DeveOps Engineer👨‍💻, Who is passionate about Open Source, Cloud Computing and Mobile Technologies. I am a AWS certified Developer and Solutions Architect. I have a Bachelor's Degree in Information Technology from the University of Massachusetts.
+### Hi there 👋 I'm Akinwale 👨‍💻
+I'm a Software Engineer / DeveOps Engineer, Who is passionate about Open Source, Cloud Computing and Mobile Technologies. I am a AWS certified Developer and Solutions Architect. I have a Bachelor's Degree in Information Technology from the University of Massachusetts.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
@@ -10,6 +10,10 @@ I'm Akinwale, I'm a Software Engineer / DeveOps Engineer👨‍💻, Who is pass
 - 🤔 I’m open to New Career Opportunities
 - 💬 Ask me about Tech, Soccer, Hiking, AWS, Linux
 - ⚡ Languages: Python, Java, Javascript, SQL
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- 📫 How to reach me:[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dewhallez)](https://twitter.com/dewhallez)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
