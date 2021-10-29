@@ -10,8 +10,5 @@ I'm Akinwale, I'm a Software Engineer / DeveOps Engineer who is passionate about
 - 😄 Pronouns: He/Him
 - ⚡ Languages: Python, Java, Javascript, SQL
 
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@dewhallez-1ca0f1?style=flat-   square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dewhallez)](https://twitter.com/dewhallez)
-
-
 
 ⭐️ From [Akinwale](https://github.com/dewhallez)
