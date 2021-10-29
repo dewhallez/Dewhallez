@@ -17,7 +17,7 @@ I'm a Software Engineer / DeveOps Engineer, Who is passionate about Open Source,
 
 [![Twitter Badge](https://img.shields.io/badge/-dewhallez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dewhallez)](https://twitter.com/dewhallez) 
 [![Linkedin Badge](https://img.shields.io/badge/Akinwale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akinwale-akinseye-53679993//)](https://www.linkedin.com/in/akinwale-akinseye-53679993/)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dewhalles@gmail.com)](mailto:dewhalles@gmail.com)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
