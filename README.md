@@ -13,9 +13,9 @@ I'm a Software Engineer / DeveOps Engineer, Who is passionate about Open Source,
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📫 How to reach me
+## 📫  How to reach me
 
-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dewhallez)](https://twitter.com/dewhallez)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dewhallez)](https://twitter.com/dewhallez)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
