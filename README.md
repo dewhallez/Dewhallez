@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Akinwale 👨‍💻 
 
-I'm a Software Engineer / DeveOps Engineer, Who is passionate about Open Source, Cloud Computing and Mobile Technologies. I am a AWS certified Developer and Solutions Architect. I have a Bachelor's Degree in Information Technology from the University of Massachusetts.
+I'm a Software Developer, Who is passionate about Open Source, Cloud Computing and Mobile Technologies. I am a AWS certified Developer and Solutions Architect. I have a Bachelor's Degree in Information Technology from the University of Massachusetts.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About 
