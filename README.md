@@ -5,7 +5,7 @@ I'm a Software Developer, Who is passionate about Open Source, Cloud Computing a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About 
 
-- 🔭  I’m currently working on AWS, Docker, terrafoam, Jenkins, REACT 🔥
+- 🔭  I’m currently working on AWS, Docker, terraform, Jenkins, REACT 🔥
 - 🌱  I’m currently learning Javascript, Java, Ansible, Full-Stack Development 🚀
 - 👯  I’m looking to collaborate on Python, Java, Javascript, AWS
 - 🤔  I’m open to New Career Opportunities
