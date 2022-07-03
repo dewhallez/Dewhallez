@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Akinwale 👨‍💻
 
-I'm a Software Developer, Who is passionate about Open Source, Cloud Computing, Data Engineering and Mobile Technologies.
+I'm a Software Engineer based in Atlanta, I am passionate about Open Source, Cloud Computing, Data Engineering and Mobile Technologies.
 
 ---
 
