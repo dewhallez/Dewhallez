@@ -6,12 +6,12 @@ I'm a Software Developer, Who is passionate about Open Source, Cloud Computing, 
 
 ### About
 
-- 🔭 I’m currently working on AWS, Docker, Django, Flask, Airflow, Terraform, Ansible, Jenkins.🔥
-- 🌱 I’m currently learning Javascript, Java, Ansible, Full-Stack Development 🚀
+- 🔭 I’m currently working on AWS, Docker, Django, Flask, Airflow, Terraform, Jenkins.🔥
+- 🌱 I’m currently learning Javascript, Java, Ansible, Kubernetes. 🚀
 - 👯 I’m looking to collaborate on Python, Java, Javascript, AWS.
 - 🤔 I’m open to new career opportunities.
 - 💬 Ask me about Tech, AWS, Andorid, Linux :heart:
-- ⚡ **Languages:** Python, Java, Javascript, Html, CSS, SQL
+- ⚡ **Languages:** Python, Html, CSS, SQL
 - 🖥️ **Organization:** damovisa-demo
 
 ---
