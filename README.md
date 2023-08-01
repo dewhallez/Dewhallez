@@ -1,17 +1,17 @@
 ### Hi there 👋 I'm Akinwale 👨‍💻
 
-I'm a Software Engineer based in Atlanta, I am passionate about Open Source, Cloud Computing, Data Engineering and Mobile Technologies.
+I'm a Data Engineeer and Software Engineer based in Atlanta, I am passionate about Open Source, Cloud Computing, Data and Mobile Technologies.
 
 ---
 
 ### About
 
-- 🔭 I’m currently working on AWS, Docker, Django, Flask, Airflow, Terraform, Jenkins.🔥
-- 🌱 I’m currently learning Javascript, Java, Ansible, Kubernetes. 🚀
-- 👯 I’m looking to collaborate on Python, Java, Javascript, AWS.
+- 🔭 I’m currently working on AWS, Docker, Airflow, Snowflakes, Terraform and Jenkins.🔥
+- 🌱 I’m currently learning kubernetes, Swift and IOS platform 🚀
+- 👯 I’m looking to collaborate on Python, Java, Javascript, AWS and GCP.
 - 🤔 I’m open to new career opportunities.
-- 💬 Ask me about Tech, AWS, Andorid, Linux :heart:
-- ⚡ **Languages:** Python, Html, CSS, SQL
+- 💬 Ask me about Tech, Football, Hiking, AWS, Linux :heart:
+- ⚡ **Languages:** Python, Java, Javascript, SQL
 - 🖥️ **Organization:** damovisa-demo
 
 ---
