@@ -7,9 +7,9 @@ I'm a results-driven Data Engineerbased in Atlanta, speci alizing in designing a
 ### 🚀 About Me
 
 - 🛠️ **Core Skills:** Data Engineering, ETL Pipelines, Data Warehousing, Cloud Infrastructure
-- ☁️ **Cloud Platforms:** AWS (Redshift, DMS, S3, Glue, Lambda, IAM), GCP, Snowflake, Azure
-- 🐍 **Languages & Scripting:** Python (Pandas, PySpark), SQL (T-SQL, PL/pgSQL), Java, JavaScript, Bash
-- 🛢️ **Databases:** PostgreSQL, MySQL, MongoDB, Snowflake
+- ☁️ **Cloud Platforms:** AWS (Redshift, DMS, S3, Glue, Lambda, IAM, DynamoDB, SQS), GCP, Snowflake, Azure
+- 🐍 **Languages & Scripting:** Python (Pandas, PySpark), SQL (T-SQL, PL/pgSQL), JavaScript, Bash
+- 🛢️ **Databases:** PostgreSQL, MySQL, MongoDB, Snowflake.
 - 🛠️ **Tools & Frameworks:** Airflow, Docker, Terraform, Jenkins, DBT, Pandas, Spark
 - 📦 **Currently Learning:** Kubernetes, Apache Kafka, Azure Data Factory, Databricks, CI/CD for DataOps, and advanced Data Lakehouse architectures
 - 🤝 **Open to Collaborate:** Data engineering projects, cloud data platforms, ETL pipeline development, open source contributions, and innovative solutions in big data and analytics.
@@ -51,7 +51,7 @@ I'm a results-driven Data Engineerbased in Atlanta, speci alizing in designing a
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewhallez&layout=compact&theme=radical)](https://github.com/dewhallez)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dewhallez)
+![visitors](https://count.getloli.com/get/@dewhallez?theme=gelbooru)
 
 ---
 
