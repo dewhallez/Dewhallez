@@ -50,7 +50,6 @@ I'm a results-driven Data Engineerbased in Atlanta, speci alizing in designing a
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dewhallez&show_icons=true&theme=radical)](https://github.com/dewhallez)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewhallez&layout=compact&theme=radical)](https://github.com/dewhallez)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dewhallez)
 
