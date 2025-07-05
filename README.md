@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Akinwale 👨‍💻
 
-I'm a results-driven Data Engineerbased in Atlanta, speci alizing in designing and building scalable data solutions for modern businesses. With a strong foundation in cloud computing, data architecture, and open source technologies, I am passionate about transforming data into actionable insights and driving innovation through automation and best practices.
+I'm a results-driven Data Engineer based in Atlanta, specializing in designing and building scalable data solutions for modern businesses. With a strong foundation in cloud computing, data architecture, and open source technologies, I am passionate about transforming data into actionable insights and driving innovation through automation and best practices.
 
 ---
 
